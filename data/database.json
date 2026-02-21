@@ -11,7 +11,7 @@
       "phoneNumber": "398-225-9900",
       "avatar": "https://avatars.dicebear.com/api/human/uBmeaz5pX.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 150953,
+      "balance": 140953,
       "createdAt": "2023-03-09T22:26:40.101Z",
       "modifiedAt": "2024-03-07T10:07:57.580Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 93026,
+      "balance": 103026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -74,6 +74,83 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "m7Y1iOAws",
+      "uuid": "30f809ef-11da-47d2-a9f3-306270d86eb1",
+      "firstName": "Daniel",
+      "lastName": "Diniz",
+      "username": "daniel_qa_148",
+      "password": "$2a$10$XAs4i1kizUKUHt/.dcg1JOHODwAOIrgWHTKzgjWP.MLnI3ocv8gq.",
+      "balance": 0,
+      "createdAt": "2026-02-21T14:25:50.222Z",
+      "modifiedAt": "2026-02-21T14:25:50.222Z"
+    },
+    {
+      "id": "AdnSWb2BY",
+      "uuid": "95a96b3f-696e-41e1-9de4-b75202524efb",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "user_sem_historico_469",
+      "password": "$2a$10$DYUDfUsK66TqCRqzbjyrf.9y/.jjaax3A9zjJtk8t5.oN1zAAhlc6",
+      "balance": 0,
+      "createdAt": "2026-02-21T14:55:12.223Z",
+      "modifiedAt": "2026-02-21T14:55:12.223Z"
+    },
+    {
+      "id": "VaGktbfU3",
+      "uuid": "95c167b0-6fb9-4b73-8560-6fc13b5ca6db",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "user_sem_historico_183",
+      "password": "$2a$10$g8ZTu3yzAQP2qKS6iOzXo.JtkM9WOP0ISHF4puaha8q0In48zmxmi",
+      "balance": 0,
+      "createdAt": "2026-02-21T15:00:36.913Z",
+      "modifiedAt": "2026-02-21T15:00:36.913Z"
+    },
+    {
+      "id": "sbV3xHnUs",
+      "uuid": "13b85f7a-e81d-49eb-aa5c-10d03ce5f5f4",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "user_sem_historico_6785",
+      "password": "$2a$10$uqNWoi5mXMz222t44qpQGeYBLTcqnDpiCycl2JMTaoVttymudUujq",
+      "balance": 0,
+      "createdAt": "2026-02-21T15:05:36.314Z",
+      "modifiedAt": "2026-02-21T15:05:36.314Z"
+    },
+    {
+      "id": "9nOTpqqMO",
+      "uuid": "1932db8b-9e8b-4195-bcf6-378a470664bc",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "user_hist_2285",
+      "password": "$2a$10$ZxXhCkg.f/0DDO6KyFzpUe/QZ6Sddto0PmKGcxp1rBKbkQKXMEfxi",
+      "balance": 0,
+      "createdAt": "2026-02-21T15:18:42.971Z",
+      "modifiedAt": "2026-02-21T15:18:42.971Z"
+    },
+    {
+      "id": "JQSuYNcqg",
+      "uuid": "67393989-be02-462b-9952-bd024a2defa8",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "user_test_5910",
+      "password": "$2a$10$RmTe8Us/j1vNctpTpIIUpuey5t73zXhTFr3EtY.FBu/W.v78mCp6C",
+      "balance": 0,
+      "createdAt": "2026-02-21T15:24:45.876Z",
+      "modifiedAt": "2026-02-21T15:24:45.876Z"
+    },
+    {
+      "id": "QY4sq6Ckh",
+      "uuid": "5a278415-6345-498b-b953-48d458b491c0",
+      "firstName": "Daniel",
+      "lastName": "QA",
+      "username": "user_qa_6722",
+      "password": "$2a$10$w/93QAu1h/95aw1cfc1W7uwSrLufMgHobhCDL5gTSURAbAxyyRNvG",
+      "balance": 0,
+      "createdAt": "2026-02-21T15:28:37.506Z",
+      "modifiedAt": "2026-02-21T15:28:37.506Z"
     }
   ],
   "contacts": [
@@ -253,6 +330,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "Sz_LMg8bL",
+      "uuid": "eba3beae-e436-41a5-b408-da2b74800b75",
+      "userId": "QY4sq6Ckh",
+      "bankName": "Banco Real",
+      "accountNumber": "987654321",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2026-02-21T15:28:39.372Z",
+      "modifiedAt": "2026-02-21T15:28:39.372Z"
     }
   ],
   "transactions": [
@@ -9855,6 +9943,30 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
+    },
+    {
+      "id": "JemjM6rM9",
+      "uuid": "0b8d45b8-63b6-417f-a37b-a5afa27fdbee",
+      "amount": 5000,
+      "description": "Pagamento de teste Cypress",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2026-02-21T14:38:59.306Z",
+      "modifiedAt": "2026-02-21T14:38:59.306Z"
+    },
+    {
+      "id": "amiazgI8Z",
+      "uuid": "e5b1f253-0882-4b1e-b42f-b2429f38e7e5",
+      "amount": 5000,
+      "description": "Pagamento de teste Cypress",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2026-02-21T14:39:38.139Z",
+      "modifiedAt": "2026-02-21T14:39:38.139Z"
     }
   ],
   "likes": [
@@ -10431,6 +10543,26 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
+    },
+    {
+      "id": "PwPvjTehWL",
+      "uuid": "3928aa39-452c-4083-b8fc-a0c242665af8",
+      "userId": "GjWovtg2hr",
+      "transactionId": "JemjM6rM9",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2026-02-21T14:38:59.370Z",
+      "modifiedAt": "2026-02-21T14:38:59.370Z"
+    },
+    {
+      "id": "GmW_j9fpG1",
+      "uuid": "297033c4-2fb3-4f97-9a61-19cf906fcf4e",
+      "userId": "GjWovtg2hr",
+      "transactionId": "amiazgI8Z",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2026-02-21T14:39:38.216Z",
+      "modifiedAt": "2026-02-21T14:39:38.216Z"
     }
   ],
   "banktransfers": [
